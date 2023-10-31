@@ -1,4 +1,4 @@
-# Tableu-dashborads
+# Tableau-dashborads
 Welcome to my Tableau Dashboard Portfolio, created as part of the Google Advanced Data Analytics course.
 
 This collection showcases a series of interactive and insightful data visualizations created using Tableau, a powerful tool for transforming raw data into actionable insights.
